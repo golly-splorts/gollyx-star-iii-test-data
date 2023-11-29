@@ -1,0 +1,531 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Pacheco Choo Choos",
+                "team2Name": "Chualar Penguins",
+                "team1Abbr": "DD",
+                "team2Abbr": "MM",
+                "patternName": "fishsoup",
+                "description": "Game 1, Monterey Bay League Division Series 1",
+                "id": "fe0cd64b-e28c-4d25-968a-4c095cc7d108",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Livingston Necessities",
+                "team2Name": "East Oakdale Keymakers",
+                "team1Abbr": "BCC",
+                "team2Abbr": "AI",
+                "patternName": "gastank",
+                "description": "Game 1, Monterey Bay League Division Series 2",
+                "id": "06d658d7-8d50-4313-9ed4-999e0a8aadd8",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Soquel Dead Presidents",
+                "team2Name": "Lenwood Pipefitters",
+                "team1Abbr": "VB",
+                "team2Abbr": "BBR",
+                "patternName": "dinnerplate",
+                "description": "Game 1, San Francisco Bay League Division Series 1",
+                "id": "738fd591-4c5b-4762-b653-2eb693ff287f",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Hamilton City Oceanographics",
+                "team2Name": "Eldridge Equilibrators",
+                "team1Abbr": "HP",
+                "team2Abbr": "RS",
+                "patternName": "random",
+                "description": "Game 1, San Francisco Bay League Division Series 2",
+                "id": "a73d4321-60ea-4c05-9d6a-7eb7f94c4681",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Pacheco Choo Choos",
+                "team2Name": "Chualar Penguins",
+                "team1Abbr": "DD",
+                "team2Abbr": "MM",
+                "patternName": "fishsoup",
+                "description": "Game 2, Monterey Bay League Division Series 1",
+                "id": "b3e40ead-5760-4149-a955-b00a18f69e0f",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Livingston Necessities",
+                "team2Name": "East Oakdale Keymakers",
+                "team1Abbr": "BCC",
+                "team2Abbr": "AI",
+                "patternName": "precipitation",
+                "description": "Game 2, Monterey Bay League Division Series 2",
+                "id": "daccde34-7b4f-49a4-b06d-172c8030ca03",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Soquel Dead Presidents",
+                "team2Name": "Lenwood Pipefitters",
+                "team1Abbr": "VB",
+                "team2Abbr": "BBR",
+                "patternName": "rustytank",
+                "description": "Game 2, San Francisco Bay League Division Series 1",
+                "id": "6e55eb8d-f821-4c0c-bacb-d5fd7bbfb9a8",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Hamilton City Oceanographics",
+                "team2Name": "Eldridge Equilibrators",
+                "team1Abbr": "HP",
+                "team2Abbr": "RS",
+                "patternName": "gastank",
+                "description": "Game 2, San Francisco Bay League Division Series 2",
+                "id": "e4a0eb0f-70a1-4aa3-bbad-b63787f3d42c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Chualar Penguins",
+                "team2Name": "Pacheco Choo Choos",
+                "team1Abbr": "MM",
+                "team2Abbr": "DD",
+                "patternName": "flyingv1",
+                "description": "Game 3, Monterey Bay League Division Series 1",
+                "id": "f32f9118-226c-42df-a1ca-7fa3ce3fa2a5",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "East Oakdale Keymakers",
+                "team2Name": "Livingston Necessities",
+                "team1Abbr": "AI",
+                "team2Abbr": "BCC",
+                "patternName": "stlouis",
+                "description": "Game 3, Monterey Bay League Division Series 2",
+                "id": "b5fa53e7-5833-4f0b-9f2a-cc6d65d9b1b5",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Lenwood Pipefitters",
+                "team2Name": "Soquel Dead Presidents",
+                "team1Abbr": "BBR",
+                "team2Abbr": "VB",
+                "patternName": "kitchensink",
+                "description": "Game 3, San Francisco Bay League Division Series 1",
+                "id": "ec8965cc-23e6-45ef-9e15-010f11404d8e",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Eldridge Equilibrators",
+                "team2Name": "Hamilton City Oceanographics",
+                "team1Abbr": "RS",
+                "team2Abbr": "HP",
+                "patternName": "ricepudding",
+                "description": "Game 3, San Francisco Bay League Division Series 2",
+                "id": "76a9fa1c-57b6-44a4-94f9-bfb8118b02d1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Chualar Penguins",
+                "team2Name": "Pacheco Choo Choos",
+                "team1Abbr": "MM",
+                "team2Abbr": "DD",
+                "patternName": "newyork",
+                "description": "Game 4, Monterey Bay League Division Series 1",
+                "id": "7bd2a926-1d0a-439d-8ff3-c7dc16896627",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "East Oakdale Keymakers",
+                "team2Name": "Livingston Necessities",
+                "team1Abbr": "AI",
+                "team2Abbr": "BCC",
+                "patternName": "combs",
+                "description": "Game 4, Monterey Bay League Division Series 2",
+                "id": "0878efe0-da5a-4d4a-bdce-6ee259ae1c27",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Lenwood Pipefitters",
+                "team2Name": "Soquel Dead Presidents",
+                "team1Abbr": "BBR",
+                "team2Abbr": "VB",
+                "patternName": "dessertplate",
+                "description": "Game 4, San Francisco Bay League Division Series 1",
+                "id": "d6d0033f-1c11-4537-863f-27e6e2b85f03",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Eldridge Equilibrators",
+                "team2Name": "Hamilton City Oceanographics",
+                "team1Abbr": "RS",
+                "team2Abbr": "HP",
+                "patternName": "kitchensink",
+                "description": "Game 4, San Francisco Bay League Division Series 2",
+                "id": "a7a576cf-14ad-4ec8-8f66-79a2ae970549",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Pacheco Choo Choos",
+                "team2Name": "Chualar Penguins",
+                "team1Abbr": "DD",
+                "team2Abbr": "MM",
+                "patternName": "squarestar",
+                "description": "Game 5, Monterey Bay League Division Series 1",
+                "id": "b98c9dea-fde2-449c-ad37-de6b96f67584",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 1,
+                "team1Name": "Livingston Necessities",
+                "team2Name": "East Oakdale Keymakers",
+                "team1Abbr": "BCC",
+                "team2Abbr": "AI",
+                "patternName": "dinnerplate",
+                "description": "Game 5, Monterey Bay League Division Series 2",
+                "id": "eb349c9f-fbf1-4fad-83f1-ea27665def56",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Soquel Dead Presidents",
+                "team2Name": "Lenwood Pipefitters",
+                "team1Abbr": "VB",
+                "team2Abbr": "BBR",
+                "patternName": "combs",
+                "description": "Game 5, San Francisco Bay League Division Series 1",
+                "id": "b92ade58-f969-4ba8-8532-f4ebb19612c2",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "team1Name": "Hamilton City Oceanographics",
+                "team2Name": "Eldridge Equilibrators",
+                "team1Abbr": "HP",
+                "team2Abbr": "RS",
+                "patternName": "fishsoup",
+                "description": "Game 5, San Francisco Bay League Division Series 2",
+                "id": "b777c8a5-d141-4622-97a2-99c68295f990",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "random",
+                "league": "Monterey Bay League",
+                "season": 1,
+                "description": "Game 1, Monterey Bay League Championship Series",
+                "id": "fdf764b6-ef0d-444f-b49d-0d4a844e7d5a",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "newyork",
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "description": "Game 1, San Francisco Bay League Championship Series",
+                "id": "55a2d8c1-58fb-4328-9964-7125e8ddad63",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "squarestar",
+                "league": "Monterey Bay League",
+                "season": 1,
+                "description": "Game 2, Monterey Bay League Championship Series",
+                "id": "d31c1ee1-50bc-490c-9d0d-f529dee16d31",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "flyingv2",
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "description": "Game 2, San Francisco Bay League Championship Series",
+                "id": "9b141392-426e-441f-b5a3-6f9ccb100c39",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "fishsoup",
+                "league": "Monterey Bay League",
+                "season": 1,
+                "description": "Game 3, Monterey Bay League Championship Series",
+                "id": "7280ae99-9b61-498c-ba3d-7a115eb68403",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "dinnerplate",
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "description": "Game 3, San Francisco Bay League Championship Series",
+                "id": "c8782f3f-b67d-43a6-bb8f-6425b3a97fc7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "stlouis",
+                "league": "Monterey Bay League",
+                "season": 1,
+                "description": "Game 4, Monterey Bay League Championship Series",
+                "id": "50015046-af97-4612-8da3-54adbb872c3d",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "precipitation",
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "description": "Game 4, San Francisco Bay League Championship Series",
+                "id": "fcb70d44-e93e-45d1-a38d-1263ef92ffed",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "gastank",
+                "league": "Monterey Bay League",
+                "season": 1,
+                "description": "Game 5, Monterey Bay League Championship Series",
+                "id": "f537780d-cfe0-4482-bb42-1a38abbf577d",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "combs",
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "description": "Game 5, San Francisco Bay League Championship Series",
+                "id": "c290fa0d-a54f-4fa8-8162-558e268568ef",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "combs",
+                "league": "Monterey Bay League",
+                "season": 1,
+                "description": "Game 6, Monterey Bay League Championship Series",
+                "id": "3de3b36c-7765-470a-a589-0e827c4e01b5",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "kitchensink",
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "description": "Game 6, San Francisco Bay League Championship Series",
+                "id": "8a196fa0-2b3f-44a7-99a8-43317db52d38",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "fishsoup",
+                "league": "Monterey Bay League",
+                "season": 1,
+                "description": "Game 7, Monterey Bay League Championship Series",
+                "id": "d3d5b4f0-ebc7-4de9-b1d9-b21a8a846cf9",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "combs",
+                "league": "San Francisco Bay League",
+                "season": 1,
+                "description": "Game 7, San Francisco Bay League Championship Series",
+                "id": "94289be6-a290-4306-bbb0-0dfef9c026b8",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "SCS": [
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "chicago",
+                "description": "Game 1, Star III Cup",
+                "season": 1,
+                "id": "124d1542-b6a5-4590-a845-3660634b7040",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "squarestar",
+                "description": "Game 2, Star III Cup",
+                "season": 1,
+                "id": "e0705017-47f7-4066-9e6e-df42437dd733",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "stlouis",
+                "description": "Game 3, Star III Cup",
+                "season": 1,
+                "id": "2cbdf093-b765-4a84-ae49-a27750ee5641",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "flyingv1",
+                "description": "Game 4, Star III Cup",
+                "season": 1,
+                "id": "1fcd305c-2c74-467a-bb99-0c99bdb7e802",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "denaturation",
+                "description": "Game 5, Star III Cup",
+                "season": 1,
+                "id": "45aa8680-36d7-46ec-9033-b52ccbb5a2e4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "newyork",
+                "description": "Game 6, Star III Cup",
+                "season": 1,
+                "id": "acaf5ffb-bb90-4f60-b5d0-3ee932f8c112",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "combs",
+                "description": "Game 7, Star III Cup",
+                "season": 1,
+                "id": "e34aa5d3-627a-4004-bd2d-b2808388e776",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
